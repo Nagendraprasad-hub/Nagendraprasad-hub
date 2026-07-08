@@ -324,4 +324,4 @@ Open To:
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,50:5b21b6,100:1a1a2e&height=120&section=footer" width="100%"/>
 
-</div>
+</div> 
